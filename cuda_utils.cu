@@ -1,4 +1,4 @@
-// Copyright 2014, Captricity Inc.
+// Copyright 2014, Yoriyasu Yano
 // All rights reserved.
 //
 // Author: yoriy@captricity.com
