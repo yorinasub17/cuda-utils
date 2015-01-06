@@ -4,7 +4,7 @@ import pycuda.driver as cuda
 
 class GPUStatusBar(rumps.App):
     def __init__(self):
-        super(GPUStatusBar, self).__init__()
+        super(GPUStatusBar, self).__init__('')
 
     @rumps.timer(2)
     def periodic_checker(self, sender):
